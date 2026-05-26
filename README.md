@@ -41,8 +41,6 @@ workforce-cost-analytics/
 │   └── monthly_cost_summary.csv
 ├── notebooks/
 │   └── workforce_cost_analysis.ipynb
-├── src/
-│   └── analysis.py
 ├── outputs/
 │   └── monthly_cost_summary.csv
 ├── reports/
